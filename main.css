@@ -1,0 +1,61 @@
+.container {
+	display:flex;
+	flex-direction: row;
+	width:306px;
+	height:306px;
+	flex-wrap: wrap;
+	background-color: #f4c842;
+	border-radius:10%;
+}
+body {
+	background-color: black;
+}
+h1 {
+	width: 306px;
+	background-color: red;
+	color:yellow;
+	font-weight: bolder;
+	text-align: center;
+	border-radius:10%;
+}
+.box1 {
+	border-left:none;
+}
+.header {
+	background-color: brown;
+	display:inline-block;
+	width:306px;
+	height:150px;
+	font-weight:bolder;
+	border-radius:10%;
+}
+.header input{
+	background-color: brown;
+	color:black;
+	font-size:1.5em;
+	font-weight:bold;
+	width:302px;
+	border-radius:5%;
+}
+.header label {
+	color:white;
+	font-size:1.5em;
+}
+.box {
+	width:100px;
+	height:100px;
+	border:1px solid black;
+	text-align:center;
+}
+.box > p {
+	position:relative;
+	font-size: 2em;
+	font-weight:bold;
+}
+.red {
+	color:red;
+}
+
+.blue {
+	color:blue;
+}
