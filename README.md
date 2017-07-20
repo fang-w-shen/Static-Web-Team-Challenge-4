@@ -1,4 +1,5 @@
 # Static-Web-Team-Challenge-4
+Tic-Tac-Toe
 1. Create a grid of nine boxes
 1. When any box is clicked a red `X` appears
 1. When the next box is clicked a Blue `O` appears
